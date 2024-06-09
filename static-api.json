@@ -1,5 +1,5 @@
 [
-    {"nama": "Sepak Bola", "imageId": "bola.png"},
-    {"nama": "Futsal", "imageId": "futsal.png"},
-    {"nama": "Running", "imageId": "running.png"}
+    {"nama": "Sepak Bola", "imageId": "bola"},
+    {"nama": "Futsal", "imageId": "futsal"},
+    {"nama": "Running", "imageId": "running"}
 ]
