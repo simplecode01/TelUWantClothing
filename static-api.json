@@ -1,5 +1,5 @@
 [
-    {"nama": "SepakBola", "imageId": "bola"},
-    {"nama": "Futsal", "imageId": "futsal"},
-    {"nama": "Running", "imageId": "running"}
+    {"nama": "SepakBola", "imageId": "bola", "material" : "Dry-Fit, Benzema, Dry-Fit Brazil, Mesh, Milano, Serenea"},
+    {"nama": "Futsal", "imageId": "futsal", "material" : "Dry-Fit, Benzema, Dry-Fit Brazil, Mesh, Milano, Serenea"},
+    {"nama": "Running", "imageId": "running", "material" : "Milano, Dry-Fit, Serena, Mesh"}
 ]
